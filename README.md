@@ -190,7 +190,7 @@ CSV
 HEADER;
 ```
 
-## Example Query
+## Query Examples
 1. Find the cheapest car by searching for "Yaris" as the keyword.
 ```
 SELECT 

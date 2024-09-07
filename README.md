@@ -26,7 +26,7 @@ To create a relational database for a website that facilitates the sale of secon
 - **Bids to Ads:** Many-to-One (One bid associated with one ad).
 - **Bids to Users:** Many-to-One (One bid placed by one user).
 
-![image](https://github.com/user-attachments/assets/8a312778-8351-4245-84cb-f6a5cdd4e606)
+![image](https://github.com/user-attachments/assets/1512ed75-ae42-426f-9ffd-03e1f2a409b7)
 
 ### 4. Determine Business Rules
 ![image](https://github.com/user-attachments/assets/7b345490-3101-4f04-a0d3-8b71e6903870)

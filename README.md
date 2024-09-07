@@ -1,6 +1,6 @@
 # #LearnDataWithPacmann - SQL: Creating and Designing Relational Database of Secondhand Car Sales Company
 
-**Tools: PostgreSQL and pgAdmin4 (and a little bit of Python).**
+**Tools: PostgreSQL and pgAdmin4 (and Python).**
 ## Project Requirements
 The general description of this project is that anyone can offer their products (secondhand cars) in the form of advertisements and potential buyers can search based on several categories. Here are the features and limitations of this project:
 - Each user can offer more than one secondhand car.
